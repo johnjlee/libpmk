@@ -22,9 +22,9 @@ tools that lets you run a PMK.
 1. cd libpmk2
 2. make libpmk 
 3. make libpmk_util
-4. make tools # OPTIONAL
-5. make diag  # OPTIONAL
-6. make tests # OPTIONAL
+4. make tools  # OPTIONAL
+5. make diag   # OPTIONAL
+6. make tests  # OPTIONAL
 
 Steps 2 and 3 build the core library.
 
